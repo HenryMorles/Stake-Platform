@@ -1,0 +1,2 @@
+# Stake-Platform
+ This project includes a token contract, "FortY," and a staking contract, "Staking." The FortY contract is an ERC20 token with an adjustable transaction fee, controlled by the owner. The Staking contract allows users to lock their FortY tokens to earn rewards over time. Users can stake tokens, accumulate rewards based on the duration of staking, and either unstake to claim rewards or use an emergency unstake option without rewards.
